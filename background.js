@@ -1,3 +1,4 @@
+
 const URL_MAP = {
   "||miniblox.*textures/spritesheet.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/refs/heads/main/spritesheet-t.png",
   "||miniblox.*assets/default-DKNlYibk.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/refs/heads/main/DEBUG/custom_background.png",
@@ -28,15 +29,15 @@ const URL_MAP = {
   "||miniblox.*textures/models/armor/diamond_layer_2.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/diamond_layer_2.png",
   "||miniblox.*textures/models/armor/emerald_layer_1.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/emerald_layer_1.png",
   "||miniblox.*textures/models/armor/emerald_layer_2.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/emerald_layer_2.png",
-  "||miniblox.*textures/models/armor/infernium_layer_1.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/infernium_layer_1.png",
-  "||miniblox.*textures/models/armor/infernium_layer_2.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/infernium_layer_2.png",
+  "||miniblox.*textures/models/armor/infernium_layer_1.png": "file:///C:/Users/DELL/Downloads/hi-im-creating-my-own-texturepack-and-need-help-despite-v0-cbjp010p3ad61.webp",
+  "||miniblox.*textures/models/armor/infernium_layer_2.png": "file:///C:/Users/DELL/Downloads/hi-im-creating-my-own-texturepack-and-need-help-despite-v0-cbjp010p3ad61.webp",
   "||miniblox.*textures/models/armor/gold_layer_1.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/gold_layer_1.png",
   "||miniblox.*textures/models/armor/gold_layer_2.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/gold_layer_2.png",
   "||miniblox.*textures/models/armor/iron_layer_1.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/iron_layer_1.png",
   "||miniblox.*textures/models/armor/iron_layer_2.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/iron_layer_2.png",
   "||miniblox.*textures/models/armor/leather_layer_1.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/leather_layer_1.png",
   "||miniblox.*textures/models/armor/leather_layer_2.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/main/armor/leather_layer_2.png",
-  "||miniblox.*textures/misc/enchanted_item_glint.png": "https://raw.githubusercontent.com/SmoothDude6969/MRTP/refs/heads/main/DEBUG/enchanted_item_glint.png"
+  "||miniblox.*textures/misc/enchanted_item_glint.png": "file:///C:/Users/DELL/Downloads/design-01kkc3sna0-1773154448.png"
 };
 
 let rules = [];
@@ -69,5 +70,6 @@ chrome.declarativeNetRequest.updateDynamicRules(
     }
   }
 );
+
 
 
