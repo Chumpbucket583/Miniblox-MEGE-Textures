@@ -2,9 +2,9 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
   "manifest_version": 3,
-  "name": "Rainbow Texture Pack x B2B",
+  "name": "MinibloxMegaTexters",
   "version": "1.6.15",
-  "description": "A browser extension to mod an online game. Some parts made by Heythereu",
+  "description": "A browser extension to mod an online game. Made by rip_Hussein",
   "author": "SmoothDude, joudaALT, Mystic",
   "background": {"service_worker": "background.js"},
   "icons": {
